@@ -9,4 +9,6 @@ REATE TABLE IF NOT EXISTS books(
   sellable TINYINT(1) DEFAULT 1,
   copies INTEGER NOT NULL DEFAULT 1,
   description  TEXT
-);
+)
+
+SELECT * FROM BOOKS
