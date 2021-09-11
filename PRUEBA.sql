@@ -18,4 +18,4 @@ CREATE TABLE IF NOT EXISTS author(
 
 )
 
-SELECT * FROM author
+SELECT * FROM books
